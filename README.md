@@ -1,1 +1,4 @@
-# Decision_Tree_UCI_Poker
+# Decision Tree with scikit-learn
+
+Lab assignments for the HCMUS - Introduction to AI course
+
